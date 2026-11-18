@@ -1,0 +1,37 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Testing and development
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Documentation drafts - excluded from repository
+Description.docx
+Descr_organized.docx
+
+# Microsoft Office temporary files
+~$*
