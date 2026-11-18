@@ -92,6 +92,79 @@ MyoGenomics aims to bring together computational genomics, protein analysis, and
 
 Its broader objective is to facilitate the exploration of biological information associated with muscle development and provide a foundation for future bioinformatics research and analysis.
 
+## Future Development Roadmap
+
+MyoGenomics is envisioned as an evolving platform that will expand beyond genomic sequence processing into protein biochemistry, structural biology, and muscle-related molecular research.
+
+The following features represent planned development directions.
+
+### 1. Protein Analysis and Biochemical Properties
+
+An extended protein analysis module will aim to provide detailed information about protein sequences and their biochemical characteristics.
+
+Planned capabilities:
+
+- Amino acid composition and frequency analysis.
+- Identification and classification of the 20 standard amino acids.
+- Amino acid properties, including polarity, charge, hydrophobicity, and molecular weight.
+- Calculation of protein molecular weight and isoelectric point (pI).
+- Analysis of hydrophobic and hydrophilic regions.
+- Identification of characteristic sequence patterns and functional motifs.
+
+### 2. Amino Acid Structure and Protein Organization
+
+An educational and analytical module will explore how amino acids form proteins and how their chemical properties influence protein structure and function.
+
+Topics and planned capabilities:
+
+- Chemical structure of amino acids, including amino, carboxyl, and variable R groups.
+- Classification of amino acids according to their chemical and physical properties.
+- Peptide bond formation and polypeptide chain organization.
+- The relationship between amino acid sequence and protein folding.
+- Structural and chemical interactions involved in protein stability.
+
+### 3. Protein Structural Biology
+
+The platform aims to provide a more comprehensive understanding of the different levels of protein organization.
+
+Planned analytical and visualization features:
+
+- **Primary structure:** Linear amino acid sequence.
+- **Secondary structure:** Alpha helices, beta sheets, and connecting loops.
+- **Tertiary structure:** Three-dimensional folding and spatial organization of a single polypeptide chain.
+- **Quaternary structure:** Organization and interaction of multiple protein subunits.
+- Exploration of hydrogen bonds, ionic interactions, disulfide bridges, and hydrophobic interactions.
+
+### 4. Advanced 3D Molecular Visualization
+
+Future versions will aim to expand molecular visualization capabilities through interactive structural representations.
+
+Potential features include:
+
+- Interactive visualization of protein structures.
+- Identification and highlighting of alpha helices, beta sheets, and structural domains.
+- Visualization of individual amino acids and their positions within protein structures.
+- Exploration of interactions between amino acid residues.
+- Integration of experimentally determined and computationally predicted protein structures.
+
+### 5. Muscle-Related Protein Research
+
+A central long-term objective is to connect genomic and protein-level information with biological processes involved in muscle development.
+
+Potential research directions include:
+
+- Exploration of proteins associated with skeletal muscle development.
+- Analysis of proteins involved in muscle contraction and structural organization.
+- Investigation of muscle-related protein sequences and their structural characteristics.
+- Integration of genomic, proteomic, and functional biological annotations.
+
+The long-term vision is to establish MyoGenomics as an integrated educational and computational environment for exploring the relationship between genetic information, amino acid sequences, protein structure, and muscle biology.
+
+---
+
+*Note: The features described in this roadmap represent planned development objectives and are not necessarily implemented in the current version.*
+
+
 ## License
 
 License information will be added in a future version.
